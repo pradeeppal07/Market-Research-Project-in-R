@@ -11,8 +11,6 @@ text-align:center;
 Market Segmentation for a B2B Company
 ========================================================
 
-**INSEAD Data Analytics Group Project**
-
 
 Introduction
 ---------------------------------------------------------
