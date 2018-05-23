@@ -15,7 +15,7 @@ Segmentation_Industry_Plastics
 
 **Author(s):** T. Evgeniou , J. Niessing 
 
-**Author(s)' Affiliations:** Pradeep Pal
+**Author(s)' Affiliations:** INSEAD
 
 **Date:** May 2018 
 
