@@ -1,7 +1,7 @@
 ---
 title : (Big) Data Analytics for Business
 subtitle : Segmentation in the Plastics Industry
-author : INSEAD Data Analytics Group Project
+author : Pradeep Pal
 job : INSEAD
 widgets : []
 mode : standalone 
